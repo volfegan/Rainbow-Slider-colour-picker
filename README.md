@@ -9,9 +9,11 @@ This Rainbow slider colour picker is used on http://volfeganbox.byethost14.com/
 Tested only on Edge, Chrome and Firefox.
 
 From: volfegan < volfegan @ xs4all.anonymous >
+
 Subject: Re: request:
 
 How's that?
+
 [piles of code]
 
                (               _________
