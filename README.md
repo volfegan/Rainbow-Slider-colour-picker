@@ -8,4 +8,23 @@ This Rainbow slider colour picker is used on http://volfeganbox.byethost14.com/
 
 Tested only on Edge, Chrome and Firefox.
 
-Use this program as you see fit.
+From: volfegan < volfegan @ xs4all.anonymous >
+Subject: Re: request:
+
+How's that?
+[piles of code]
+
+               (               _________
+                \             |.        |_
+                 )            |.        |:|
+            ##-------->       |.        |/
+                 )            |_________|
+                /              __|___|__
+        _______(______________[_________]__
+       |                                   |
+       |                                   |
+       |..Use this program as you see fit..|
+       |                                   |
+       |                                   |
+       |___________________________________|
+    --
