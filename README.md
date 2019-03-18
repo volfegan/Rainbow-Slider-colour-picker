@@ -6,6 +6,7 @@ This javascript program generate 361 HUES of colour, 360 for the rainbow colour 
 ![alt tag](RainbowSlider.jpg)
 
 This Rainbow slider colour picker is used on http://volfeganbox.byethost14.com/
+
 Tested only on Edge, Chrome and Firefox.
 
 [piles of code]
